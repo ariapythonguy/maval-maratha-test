@@ -55,7 +55,7 @@ function populatechineseMenu(data, containerId) {
                         ${window.innerWidth < 480 ? shortDesc + ' <span class="read-more" style="color: #31B404; cursor: pointer;">Read More</span>' : fullDesc}
                     </p>
                 </div>
-               <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy" decoding="async" data-nimg="fill">
+               <img src="${dish.image}" alt="${dish.name}" class="lazy-img" decoding="async" >
             </div>
         `;
 
@@ -65,6 +65,35 @@ function populatechineseMenu(data, containerId) {
     // lazyLoadImages();
     console.log(`chinese Menu Loaded Successfully for ${containerId}`);
 }
+// Function to lazy load images
+function lazyLoadImages() {
+    const images = document.querySelectorAll(".lazy-img");
+
+    if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.dataset.src; // Load actual image
+                    observer.unobserve(img); // Stop observing after loading
+                }
+            });
+        }, {
+            rootMargin: "100px", // Preload images slightly before they appear
+            threshold: 0.1
+        });
+
+        images.forEach(img => observer.observe(img));
+    } else {
+        // Fallback for older browsers (loads all images at once)
+        images.forEach(img => {
+            img.src = img.dataset.src;
+        });
+    }
+}
+
+// Call lazyLoadImages after images are added dynamically
+lazyLoadImages();
 
 // Fetch restaurant header details
 fetch('../json/header.json')
@@ -75,19 +104,7 @@ fetch('../json/header.json')
     })
     .catch(error => console.error('Error loading header data:', error));
 
-    function lazyLoadImages() {
-        const observer = new IntersectionObserver(entries => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const img = entry.target;
-                    img.src = img.dataset.src;
-                    observer.unobserve(img);
-                }
-            });
-        });
-    
-        document.querySelectorAll(".lazy-img").forEach(img => observer.observe(img));
-    }
+
 // Function to handle "Read More" functionality
 function handleReadMore() {
     if (window.innerWidth >= 480) return;
