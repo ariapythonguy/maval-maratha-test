@@ -97,7 +97,7 @@ body {
     margin: 0 auto;
     padding: 0px;
     line-height: 2rem;
-    /* background-color: #e1dbdb; */
+    background-color: #e5f0f9;
     border: 2px solid #d1d1d1;
     /* text-align: center; */
     position: relative;
@@ -123,6 +123,84 @@ body {
 .lazy-img.fade-in {
     opacity: 1;
 } */
+ @font-face {
+    font-family: 'MyIcons';
+    src: url('/fonts/MyIcons.woff2') format('woff2'),
+         url('/fonts/MyIcons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.full-star::before {
+    font-family: 'MyIcons';
+    content: "\e901"; 
+    color: gold;
+    font-size: 24px;
+}
+
+.half-star::before {
+    font-family: 'MyIcons';
+    content: "\e900"; 
+    color: gold;
+    font-size: 24px;
+}
+
+.veg-container {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between the circle and text */
+}
+
+.circle {
+    width: 18px; /* Adjust size */
+    height: 18px;
+    border: 2px solid; /* Square border */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.circle::before {
+    content: "";
+    width: 10px; /* Circle size */
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.veg {
+    border-color: green;
+}
+
+.veg::before {
+    background-color: green;
+}
+
+.non-veg {
+    border-color: red;
+}
+
+.non-veg::before {
+    background-color: red;
+}
+
+.food-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+.main h2{
+    align-items: center;
+    text-align: center;
+    /* background-color: #007bff; */
+    color: #007bff;
+    text-decoration: underline;
+}
+/* Fallback in case WOFF2 fails */
+.full-star::before { content: "★"; color: gold; font-size: 24px; }
+.half-star::before { content: "⯪"; color: gold; font-size: 24px; }
+.radio-circle.veg::before { content: "●"; color: green; font-size: 14px; }
+.radio-circle.non-veg::before { content: "●"; color: red; font-size: 14px; } 
 
 .dish {
     min-height: 200px; /* Ensure height doesn't collapse before content loads */
@@ -171,6 +249,7 @@ h1{
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
+    background-color: #ffffff;
 }
 
 .dish-header {
@@ -192,6 +271,7 @@ h1{
 .dish-info {
     flex-grow: 1;
     margin-left: 10px;
+    /* background-color: #555; */
 }
 
 .dish-name {
@@ -270,9 +350,8 @@ h1{
 
 /* Button styling */
 #toggle-nav,
-.cta-button,
-.placeorder,
-.location {
+.back-btn
+ {
     padding: 6px 12px;
     font-size: 1.0rem;
     cursor: pointer;
