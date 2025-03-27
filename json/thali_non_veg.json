@@ -7,7 +7,7 @@
         "rating": 4.6,
         "description": "Sukka Mutton, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://madhurasrecipe.com/wp-content/uploads/2023/07/Kolhapuri-Thali-Featured.jpg",
+    
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -20,8 +20,7 @@
         "rating": 4.7,
         "description": "Sukka Mutton, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://madhurasrecipe.com/wp-content/uploads/2023/07/Kolhapuri-Thali-Featured.jpg",
-        "veg": false,
+         "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -33,7 +32,6 @@
         "rating": 4.6,
         "description": "Gavran Chicken Sukka, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6LBZQhoNMpXCFFy1nEAIZ5Qq6tnw0qllRrw&s",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -46,8 +44,7 @@
         "rating": 4.7,
         "description": "Gavran Chicken Sukka, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6LBZQhoNMpXCFFy1nEAIZ5Qq6tnw0qllRrw&s",
-        "veg": false,
+      "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -85,7 +82,6 @@
         "rating": 4.7,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "https://images.pond5.com/chicken-thali-indian-cuisine-food-photo-160141314_iconl.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -98,8 +94,7 @@
         "rating": 4.8,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "https://images.pond5.com/chicken-thali-indian-cuisine-food-photo-160141314_iconl.jpeg",
-        "veg": false,
+       "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -111,8 +106,7 @@
         "rating": 4.6,
         "description": "Fish Fry, Fish Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "https://lankeskitchen.com/wp-content/uploads/2022/04/Surmai_Thali-1.png",
-        "veg": false,
+      "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -124,7 +118,6 @@
         "rating": 4.7,
         "description": "Fish Fry, Fish Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "https://lankeskitchen.com/wp-content/uploads/2022/04/Surmai_Thali-1.png",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -137,8 +130,7 @@
         "rating": 4.5,
         "description": "Egg Masala, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpUUc2C72Bb6rScQd29dT83AzY197JhRbYA&s",
-        "veg": false,
+       "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -150,8 +142,7 @@
         "rating": 4.6,
         "description": "Egg Masala, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpUUc2C72Bb6rScQd29dT83AzY197JhRbYA&s",
-        "veg": false,
+       "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -163,7 +154,6 @@
         "rating": 4.8,
         "description": "Mutton/Gavran Chicken Curry, Sukka, 6 Boiled Eggs, 10 Roti / 6 Bhakri, Solkadi, Tambada/Pandhra Rassa, Techa, Kuchumber, Indrayani Rice, Green Salad.",
         "category": "thali",
-        "image": "https://www.shutterstock.com/image-photo/chicken-thali-indian-cuisine-food-600nw-2017162076.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -176,7 +166,6 @@
         "rating": 4.7,
         "description": "Chicken Curry, Chicken Sukka, 6 Boiled Eggs, 10 Roti / 6 Bhakri, Solkadi, Tambada/Pandhra Rassa, Techa, Kuchumber, Indrayani Rice, Green Salad.",
         "category": "thali",
-        "image": "https://static.vecteezy.com/system/resources/previews/043/114/321/large_2x/chicken-thali-set-with-chicken-korma-chanay-plain-rice-aloo-shorba-and-chapati-served-in-dish-isolated-on-background-top-view-of-indian-spicy-food-photo.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
