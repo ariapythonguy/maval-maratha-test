@@ -55,7 +55,7 @@ function populatebeveragesMenu(data) {
                     </p>
                 </div>
                   
-                    <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy" decoding="async">
+                   <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy" decoding="async" data-nimg="fill">>
                    
                 </div>
                 `;
