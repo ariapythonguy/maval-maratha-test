@@ -466,12 +466,16 @@ h1{
 }
 
 .dish img {
-    max-width: 120px;
-    /* border-radius: 10px; */
-    display: block;
+    width: 120px;
     height: 140px;
+    aspect-ratio: 3 / 4; /* Maintains 3:4 aspect ratio */
+    display: block;
     margin: 10px auto;
+    object-fit: cover; /* Ensures proper image cropping */
+    border-radius: 10px; /* Adds rounded corners */
+    border: 2px solid #ccc; /* Adds a subtle border */
 }
+
 
 .tag {
     /* background: #3498db; */
