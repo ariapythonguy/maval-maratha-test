@@ -7,7 +7,7 @@
         "rating": 4.6,
         "description": "Sukka Mutton, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-    
+        "image": "../Maval_maratha_images/183-mutton-thali.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -20,7 +20,8 @@
         "rating": 4.7,
         "description": "Sukka Mutton, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-         "veg": false,
+        "image": "../Maval_maratha_images/183-mutton-thali.jpg",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -32,6 +33,7 @@
         "rating": 4.6,
         "description": "Gavran Chicken Sukka, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
+        "image": "../Maval_maratha_images/184-gavaran-thali.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -44,7 +46,8 @@
         "rating": 4.7,
         "description": "Gavran Chicken Sukka, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-      "veg": false,
+        "image": "../Maval_maratha_images/184-gavaran-thali.jpeg",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -82,6 +85,7 @@
         "rating": 4.7,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
+        "image": "../Maval_maratha_images/185-prawns-thali.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -94,7 +98,8 @@
         "rating": 4.8,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-       "veg": false,
+        "image": "../Maval_maratha_images/185-prawns-thali.webp",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -106,7 +111,8 @@
         "rating": 4.6,
         "description": "Fish Fry, Fish Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-      "veg": false,
+        "image": "../Maval_maratha_images/186-fish-thali.png",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -118,6 +124,7 @@
         "rating": 4.7,
         "description": "Fish Fry, Fish Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
+        "image": "../Maval_maratha_images/186-fish-thali.png",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -130,7 +137,8 @@
         "rating": 4.5,
         "description": "Egg Masala, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-       "veg": false,
+        "image": "../Maval_maratha_images/187-egg-thali.jpeg",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -142,7 +150,8 @@
         "rating": 4.6,
         "description": "Egg Masala, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-       "veg": false,
+        "image": "../Maval_maratha_images/187-egg-thali.jpeg",
+        "veg": false,
         "startTime": 11,
         "endTime": 23.45
     },
@@ -154,6 +163,7 @@
         "rating": 4.8,
         "description": "Mutton/Gavran Chicken Curry, Sukka, 6 Boiled Eggs, 10 Roti / 6 Bhakri, Solkadi, Tambada/Pandhra Rassa, Techa, Kuchumber, Indrayani Rice, Green Salad.",
         "category": "thali",
+        "image": "../Maval_maratha_images/188-jumbo-mutton-gavran.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -166,6 +176,7 @@
         "rating": 4.7,
         "description": "Chicken Curry, Chicken Sukka, 6 Boiled Eggs, 10 Roti / 6 Bhakri, Solkadi, Tambada/Pandhra Rassa, Techa, Kuchumber, Indrayani Rice, Green Salad.",
         "category": "thali",
+        "image": "../Maval_maratha_images/189-jumbo-chicken.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
