@@ -54,9 +54,12 @@ function populatebeveragesMenu(data) {
                         ${window.innerWidth < 480 ? shortDesc + ' <span class="read-more" style="color: #31B404; cursor: pointer;">Read More</span>' : fullDesc}
                     </p>
                 </div>
-                <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy"/>
-            </div>
-        `;
+                  
+                    <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy" decoding="async">
+                   
+                </div>
+                `;
+                // <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy"/>
 
         container.appendChild(dishElement);
     });
@@ -64,6 +67,36 @@ function populatebeveragesMenu(data) {
     // lazyLoadImages();
     console.log("beverages Menu Loaded Successfully");
 }
+// chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+//     if (request.action === "getData") {
+//         fetchSomeData().then(data => {
+//             sendResponse({ success: true, data });
+//         }).catch(error => {
+//             sendResponse({ success: false, error });
+//         });
+//         return true; // Ensures sendResponse is called asynchronously
+//     }
+// });
+
+// document.addEventListener("DOMContentLoaded", function () {
+//     console.log("Page loaded");
+// });
+
+self.addEventListener('fetch', event => {
+    event.respondWith(fetch(event.request));
+});
+
+
+// async function fetchData() {
+//     try {
+//         let response = await fetch("beverages.html");
+//         let data = await response.text();
+//         console.log(data);
+//     } catch (error) {
+//         console.error("Fetch error:", error);
+//     }
+// }
+// fetchData();
 
 fetch('../json/header.json')
     .then(response => response.json())

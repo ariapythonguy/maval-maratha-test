@@ -52,7 +52,7 @@ function populateGravyMenu(data, containerId) {
                         ${window.innerWidth < 480 ? shortDesc + ' <span class="read-more" style="color: #31B404; cursor: pointer;">Read More</span>' : fullDesc}
                     </p>
                 </div>
-                <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy"/>
+                <img src="${dish.image}" alt="${dish.name}" class="lazy-img" loading="lazy" decoding="async"
             </div>
         `;
 
