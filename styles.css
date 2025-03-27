@@ -472,7 +472,6 @@ h1{
     display: block;
     margin: 10px auto;
     object-fit: cover; /* Ensures proper image cropping */
-    border-radius: 10px; /* Adds rounded corners */
     border: 2px solid #ccc; /* Adds a subtle border */
 }
 
