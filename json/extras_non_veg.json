@@ -7,7 +7,7 @@
         "rating": 4.9,
         "description": "A grand selection of tandoori delicacies, perfect for sharing.",
         "category": "platter",
-        "image": "../Maval_maratha_images/108-Tandoori-Platter_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/108-Tandoori-Platter_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -59,7 +59,7 @@
         "rating": 4.5,
         "description": "Delicious chicken cooked in a Handi with spices.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/58-Chicken-Handi (Half).jpg",
+        "image": "../Maval_maratha_images/58-Chicken-Handi (Half)_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -72,7 +72,7 @@
         "rating": 4.5,
         "description": "Creamy Afghani-style chicken cooked in a Handi.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/61-Afghani-Chicken-(Full).webp",
+        "image": "../Maval_maratha_images/61-Afghani-Chicken-(Full)_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -85,7 +85,7 @@
         "rating": 4.5,
         "description": "Creamy Afghani-style chicken cooked in a Handi.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/61-Afghani-Chicken-(Full).webp",
+        "image": "../Maval_maratha_images/61-Afghani-Chicken-(Full)_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -98,7 +98,7 @@
         "rating": 4.5,
         "description": "Tandoori chicken cooked in a rich masala.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/63-Chicken-Tandoori-Masala-(Full).jpg",
+        "image": "../Maval_maratha_images/63-Chicken-Tandoori-Masala-(Full)_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -111,7 +111,7 @@
         "rating": 4.5,
         "description": "Tandoori chicken cooked in a rich masala.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/63-Chicken-Tandoori-Masala-(Full).jpg",
+        "image": "../Maval_maratha_images/63-Chicken-Tandoori-Masala-(Full)_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -150,7 +150,7 @@
         "rating": 4.5,
         "description": "Prawns cooked in a rich and spicy Handi.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/66-Prawns-Handi.jpeg",
+        "image": "../Maval_maratha_images/66-Prawns-Handi_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45

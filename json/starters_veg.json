@@ -7,7 +7,7 @@
         "rating": 4.3,
         "description": "Crispy and spicy deep-fried chickpeas, a perfect starter.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/7-Chana-Koliwada.jpeg",
+        "image": "../Maval_maratha_images/7-Chana-Koliwada.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -33,7 +33,7 @@
         "rating": 4.6,
         "description": "Paneer marinated in green herbs and grilled to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/9-Paneer-Pahadi-Tikka.png",
+        "image": "../Maval_maratha_images/9-Paneer-Pahadi-Tikka_240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -72,7 +72,7 @@
         "rating": 4.5,
         "description": "Juicy mushrooms grilled with spicy marination and served with chutney.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/12-Mushroom-Tikka.jpg",
+        "image": "../Maval_maratha_images/12-Mushroom-Tikka_240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -85,7 +85,7 @@
         "rating": 4.7,
         "description": "Soft paneer cubes topped with melted cheese and grilled to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/13-Paneer-Cheese-tikka_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/13-Paneer-Cheese-tikka._240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -98,7 +98,7 @@
         "rating": 4.6,
         "description": "Grilled mushrooms topped with melted cheese, served with mint chutney.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/14-Mushroom-cheese-tikka_240w_300h.jpg",
+        "image": "../Maval_maratha_images/14-Mushroom-cheese-tikka_240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -111,7 +111,7 @@
         "rating": 4.5,
         "description": "Marinated mushrooms grilled to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/15-Chana-Garlic_240w_300h.jpg",
+        "image": "../Maval_maratha_images/15-Chana-Garlic_240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -150,7 +150,7 @@
         "rating": 4.5,
         "description": "Crispy fried paneer tossed in flavorful spices.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/18-Paneer-crispy.jpeg",
+        "image": "../Maval_maratha_images/18-Paneer-crispy_240w_320h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -176,7 +176,7 @@
         "rating": 4.7,
         "description": "Crispy paneer fingers stuffed with cheese and spices.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/20-Paneer-cheese-finger_240w_300h.jpg",
+        "image": "../Maval_maratha_images/20-Paneer-cheese-finger_240w_320h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23

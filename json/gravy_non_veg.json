@@ -20,7 +20,7 @@
         "rating": 4.6,
         "description": "Spicy Kolhapuri-style chicken curry with a fiery taste.",
         "category": "gravy",
-        "image": "../Maval_maratha_images/40-Chicken-Kolhapuri_240w_300h.webp",
+        "image": "../Maval_maratha_images/40-Chicken-Kolhapuri_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -46,7 +46,7 @@
         "rating": 4.7,
         "description": "Mutton cooked in a traditional Kolhapuri-style spicy gravy.",
         "category": "gravy",
-        "image": "../Maval_maratha_images/42-Mutton-Kolhapuri_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/42-Mutton-Kolhapuri_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -111,7 +111,7 @@
         "rating": 4.7,
         "description": "Juicy prawns cooked in a flavorful masala or curry base.",
         "category": "gravy",
-        "image": "../Maval_maratha_images/47-Prawns-Masala-Curry_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/47-Prawns-Masala-Curry_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -150,7 +150,7 @@
         "rating": 4.8,
         "description": "Fresh Surmai or Pomfret cooked in a rich and flavorful curry.",
         "category": "gravy",
-        "image": "../Maval_maratha_images/50-Fish- Curry_240w_300h.jpg",
+        "image": "../Maval_maratha_images/50-Fish- Curry_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45

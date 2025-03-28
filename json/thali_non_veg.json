@@ -72,7 +72,7 @@
         "rating": 4.6,
         "description": "Sukka Chicken, Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa.",
         "category": "thali",
-        "image": "../Maval_maratha_images/165-chicken-thali_240w_300h.jpg",
+        "image": "../Maval_maratha_images/165-chicken-thali_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -85,7 +85,7 @@
         "rating": 4.7,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "../Maval_maratha_images/185-prawns-thali_240w_300h.webp",
+        "image": "../Maval_maratha_images/185-prawns-thali_240w_320h.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -98,7 +98,7 @@
         "rating": 4.8,
         "description": "Sukka Prawns, Prawns Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "../Maval_maratha_images/185-prawns-thali_240w_300h.webp",
+        "image": "../Maval_maratha_images/185-prawns-thali_240w_320h.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -111,7 +111,7 @@
         "rating": 4.6,
         "description": "Fish Fry, Fish Gravy (No Pcs), Tambda Rassa, Pandra Rassa, Bhakri/Roti/Chapati (1 Piece), Indrayani Rice, Kuchumber, Techa, Sole Kadi.",
         "category": "thali",
-        "image": "../Maval_maratha_images/186-fish-thali_240w_300h.png",
+        "image": "../Maval_maratha_images/186-fish-thali_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -163,7 +163,7 @@
         "rating": 4.8,
         "description": "Mutton/Gavran Chicken Curry, Sukka, 6 Boiled Eggs, 10 Roti / 6 Bhakri, Solkadi, Tambada/Pandhra Rassa, Techa, Kuchumber, Indrayani Rice, Green Salad.",
         "category": "thali",
-        "image": "../Maval_maratha_images/188-jumbo-mutton-gavran_240w_300h.webp",
+        "image": "../Maval_maratha_images/188-jumbo-mutton-gavran_240w_320h.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45

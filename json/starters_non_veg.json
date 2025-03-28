@@ -33,7 +33,7 @@
         "rating": 4.5,
         "description": "Crispy fried fish, seasoned to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/24-Fish-fry_240w_300h.jpg",
+        "image": "../Maval_maratha_images/24-Fish-fry_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -46,7 +46,7 @@
         "rating": 4.5,
         "description": "Spicy prawns fried in a traditional Koli style.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/25-Prawms-koliwada-prawns_240w_300h.jpg",
+        "image": "../Maval_maratha_images/25-Prawms-koliwada-prawns_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -59,7 +59,7 @@
         "rating": 4.5,
         "description": "Spicy and dry mutton preparation.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/26-Mutton-sukka_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/26-Mutton-sukka_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -85,7 +85,7 @@
         "rating": 4.5,
         "description": "Spicy chicken fried in a traditional Koli style.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/28-Chicken-koliwada_240w_300h.jpg",
+        "image": "../Maval_maratha_images/28-Chicken-koliwada_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -124,7 +124,7 @@
         "rating": 4.5,
         "description": "Spicy prawns tossed in a chili sauce.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/31-Prawns-chilli_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/31-Prawns-chilli_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -176,7 +176,7 @@
         "rating": 4.5,
         "description": "Fried chicken lollipops served with a spicy dip.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/35-Chicken-Lollypop (8 Pc)_240w_300h.jpg",
+        "image": "../Maval_maratha_images/35-Chicken-Lollypop (8 Pc)_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -189,7 +189,7 @@
         "rating": 4.5,
         "description": "Crispy fried prawns coated in semolina.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/36-Prawns-Rav-or-Tawa-Fry_240w_300h.jpg",
+        "image": "../Maval_maratha_images/36-Prawns-Rav-or-Tawa-Fry_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -332,7 +332,7 @@
         "rating": 4.5,
         "description": "Spicy grilled chicken tikka with black pepper.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/97-Chicken-Tangdi_240w_300h.jpeg",
+        "image": "../Maval_maratha_images/97-Chicken-Tangdi_240w_320h.jpeg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -397,7 +397,7 @@
         "rating": 4.5,
         "description": "Chicken drumettes marinated in tandoori spices and cooked to perfection.",
         "category": "starter",
-        "image": "../Maval_maratha_images/102-Chicken-Tandoori-Lollypop_240w_300h.jpg",
+        "image": "../Maval_maratha_images/102-Chicken-Tandoori-Lollypop_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -436,7 +436,7 @@
         "rating": 4.7,
         "description": "Deliciously spiced kebabs, grilled to perfection.",
         "category": "starter",
-        "image": "../Maval_maratha_images/105-Shole-Kebab_240w_300h.jpg",
+        "image": "../Maval_maratha_images/105-Shole-Kebab_240w_320h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -488,7 +488,7 @@
         "rating": 5.0,
         "description": "A luxurious mix of vegetarian and non-vegetarian starters.",
         "category": "starter",
-        "image": "../Maval_maratha_images/110-Mix-Platter_240w_300h.jpg",
+        "image": "../Maval_maratha_images/110-Mix-Platter.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
