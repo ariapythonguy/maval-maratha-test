@@ -46,7 +46,7 @@
         "rating": 4.5,
         "description": "Spiced okra dish cooked with onions and tomatoes.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/138-Bhendi-Masala.webp",
+        "image": "../Maval_maratha_images/138-Bhendi-Masala_240w_300h.webp",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -72,7 +72,7 @@
         "rating": 4.6,
         "description": "A delightful mix of vegetables cooked with Indian spices.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/140-Mix-Veg.jpg",
+        "image": "../Maval_maratha_images/140-Mix-Veg_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -85,7 +85,7 @@
         "rating": 4.5,
         "description": "A spicy mixed vegetable curry from Kolhapur.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/141-Veg-Kolhapuri.jpeg",
+        "image": "../Maval_maratha_images/141-Veg-Kolhapuri_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -99,7 +99,7 @@
         "rating": 4.6,
         "description": "Creamy and buttery mixed vegetable curry.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/142-Veg-Makhanwala.jpeg",
+        "image": "../Maval_maratha_images/142-Veg-Makhanwala_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -138,7 +138,7 @@
         "rating": 4.6,
         "description": "A rich and creamy mushroom curry made with aromatic spices.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/145-Mushroom-Masala.jpg",
+        "image": "../Maval_maratha_images/145-Mushroom-Masala_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -164,7 +164,7 @@
         "rating": 4.4,
         "description": "A flavorful mix of paneer and chickpeas cooked in a rich tomato gravy.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/147-Chana-Paneer-Masala.jpg",
+        "image": "../Maval_maratha_images/147-Chana-Paneer-Masala_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -203,7 +203,7 @@
         "rating": 4.3,
         "description": "A flavorful green pea curry with a thick tomato-based sauce.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/150-Mutter-Masala.jpeg",
+        "image": "../Maval_maratha_images/150-Mutter-Masala_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -216,7 +216,7 @@
         "rating": 4.2,
         "description": "A comforting dish of potatoes and peas in a spiced gravy.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/151-Aloo-Mutter.jpeg",
+        "image": "../Maval_maratha_images/151-Aloo-Mutter_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -255,7 +255,7 @@
         "rating": 4.6,
         "description": "Rich and creamy cashew curry cooked with aromatic spices.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/154-Kaju-Curry.jpeg",
+        "image": "../Maval_maratha_images/154-Kaju-Curry_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -346,7 +346,7 @@
         "rating": 4.6,
         "description": "Paneer cooked in a thick onion-based gravy with spices.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/161-Paneer-Do-Pyaza.jpg",
+        "image": "../Maval_maratha_images/161-Paneer-Do-Pyaza_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -359,7 +359,7 @@
         "rating": 4.4,
         "description": "Crispy fried okra served with special masala seasoning.",
         "category": "Gravy",
-        "image": "../Maval_maratha_images/162-Bhendi-Kurkura.jpg",
+        "image": "../Maval_maratha_images/162-Bhendi-Kurkura_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23

@@ -85,7 +85,7 @@
         "rating": 4.7,
         "description": "Soft paneer cubes topped with melted cheese and grilled to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/13-Paneer-Cheese-tikka..png",
+        "image": "../Maval_maratha_images/13-Paneer-Cheese-tikka_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -98,7 +98,7 @@
         "rating": 4.6,
         "description": "Grilled mushrooms topped with melted cheese, served with mint chutney.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/14-Mushroom-cheese-tikka.jpg",
+        "image": "../Maval_maratha_images/14-Mushroom-cheese-tikka_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -111,7 +111,7 @@
         "rating": 4.5,
         "description": "Marinated mushrooms grilled to perfection.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/15-Chana-Garlic.jpg",
+        "image": "../Maval_maratha_images/15-Chana-Garlic_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -176,7 +176,7 @@
         "rating": 4.7,
         "description": "Crispy paneer fingers stuffed with cheese and spices.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/20-Paneer-cheese-finger.jpg",
+        "image": "../Maval_maratha_images/20-Paneer-cheese-finger_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23

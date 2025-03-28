@@ -7,7 +7,7 @@
         "rating": 4.5,
         "description": "Stir-fried rice with vegetables and aromatic spices.",
         "category": "Fried Rice",
-        "image": "../Maval_maratha_images/129-Fried-Rice.jpg",
+        "image": "../Maval_maratha_images/129-Fried-Rice_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -111,7 +111,7 @@
         "rating": 4.1,
         "description": "Simple steamed rice, a perfect accompaniment to curries and dals.",
         "category": "Rice",
-        "image": "../Maval_maratha_images/123-Steam-Rice-(Full Plate).jpg",
+        "image": "../Maval_maratha_images/123-Steam-Rice-(Full Plate)_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -137,7 +137,7 @@
         "rating": 4.5,
         "description": "Classic fried rice with vegetables.",
         "category": "fried rice",
-        "image": "../Maval_maratha_images/129-Fried-Rice.jpg",
+        "image": "../Maval_maratha_images/129-Fried-Rice_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -228,7 +228,7 @@
         "rating": 4.5,
         "description": "Flavorful biryani infused with smoky chicken tikka and rich spices.",
         "category": "Rice",
-        "image": "../Maval_maratha_images/126-Chicken-Tikka-Biryani.jpg",
+        "image": "../Maval_maratha_images/126-Chicken-Tikka-Biryani_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45

@@ -47,7 +47,7 @@
         "rating": 4.5,
         "description": "Rich and buttery naan with soft texture.",
         "category": "Breads",
-        "image": "../Maval_maratha_images/74-Butter-Naan.jpeg",
+        "image": "../Maval_maratha_images/74-Butter-Naan_240w_300h.jpeg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -60,7 +60,7 @@
         "rating": 4.3,
         "description": "Layered and crispy paratha.",
         "category": "Breads",
-        "image": "../Maval_maratha_images/75-Paratha.jpg",
+        "image": "../Maval_maratha_images/75-Paratha_240w_300h.jpg",
         "veg": true,
         "startTime": 11,
         "endTime": 23
@@ -112,7 +112,7 @@
         "rating": 4.4,
         "description": "Soft and fluffy naan with rich garlic flavor.",
         "category": "Breads",
-        "image": "../Maval_maratha_images/79-Garlic-Naan.jpg",
+        "image": "../Maval_maratha_images/79-Garlic-Naan_240w_300h.jpg",
         "veg": true,
         "startTime": 7,
         "endTime": 23
@@ -138,7 +138,7 @@
         "rating": 4.3,
         "description": "Kulcha brushed with butter for extra taste.",
         "category": "Breads",
-        "image": "../Maval_maratha_images/81-Butter-Kulcha.jpeg",
+        "image": "../Maval_maratha_images/81-Butter-Kulcha_240w_300h.jpeg",
         "veg": true,
         "startTime": 7,
         "endTime": 23

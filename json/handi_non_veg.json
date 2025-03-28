@@ -33,7 +33,7 @@
         "rating": 4.5,
         "description": "Delicious chicken cooked in a Handi with spices.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/59-Chicken-Handi (Full).jpg",
+        "image": "../Maval_maratha_images/59-Chicken-Handi (Full)_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -111,7 +111,7 @@
         "rating": 4.5,
         "description": "Slow-cooked mutton in a traditional Handi.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/65-Mutton-Handi-(Full).jpg",
+        "image": "../Maval_maratha_images/65-Mutton-Handi-(Full)_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -124,7 +124,7 @@
         "rating": 4.5,
         "description": "Slow-cooked mutton in a traditional Handi.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/65-Mutton-Handi-(Full).jpg",
+        "image": "../Maval_maratha_images/64-Mutton-Handi-(Half)_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -163,7 +163,7 @@
         "rating": 4.5,
         "description": "Creamy butter chicken cooked with spices.",
         "category": "Handi",
-        "image": "../Maval_maratha_images/68-Butter-Chicken (Bone).webp",
+        "image": "../Maval_maratha_images/68-Butter-Chicken (Bone)_240w_300h.webp",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45

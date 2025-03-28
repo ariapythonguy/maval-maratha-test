@@ -42,7 +42,7 @@
         "rating": 4.7,
         "description": "A refreshing Konkani drink made with coconut milk and kokum.",
         "category": "Beverages & Extras",
-        "image": "../Maval_maratha_images/169-Solkadhi.jpg",
+        "image": "../Maval_maratha_images/169-Solkadhi_240w_300h.jpg",
         "veg": true,
         "startTime": 7,
         "endTime": 23
@@ -102,7 +102,7 @@
         "rating": 4.7,
         "description": "Extra serving of spicy red (Tambda) or white (Pandhra) gravy.",
         "category": "Beverages & Extras",
-        "image": "/../Maval_maratha_images/173-extra-gravy.jpg",
+        "image": "/../Maval_maratha_images/173-extra-gravy_240w_300h.jpg",
         "veg": true,
         "startTime": 7,
         "endTime": 23
@@ -139,7 +139,7 @@
         "rating": 4.7,
         "description": "Crunchy papad topped with tangy masala mix.",
         "category": "Beverages & Extras",
-        "image": "../Maval_maratha_images/178-masala-papad.jpeg",
+        "image": "../Maval_maratha_images/178-masala-papad_240w_300h.jpeg",
         "veg": true,
         "startTime": 7,
         "endTime": 23
