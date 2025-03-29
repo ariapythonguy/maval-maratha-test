@@ -46,7 +46,7 @@
         "rating": 4.5,
         "description": "Spicy prawns fried in a traditional Koli style.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/25-Prawms-koliwada-prawns_240w_320h.jpg",
+        "image": "../Maval_maratha_images/25-Prawms-koliwada-prawns_240w_300h.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
@@ -85,7 +85,7 @@
         "rating": 4.5,
         "description": "Spicy chicken fried in a traditional Koli style.",
         "category": "Starters",
-        "image": "../Maval_maratha_images/28-Chicken-koliwada_240w_320h.jpg",
+        "image": "../Maval_maratha_images/28-Chicken-koliwada.jpg",
         "veg": false,
         "startTime": 11,
         "endTime": 23.45
