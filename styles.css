@@ -212,6 +212,12 @@ body {
     background-color: #f0f0f0; /* Placeholder to prevent layout shift */
 }
 
+/* .dish img.lazy-img {
+    opacity: 0;
+}
+.dish img.lazy-img.loaded {
+    opacity: 1;
+} */
 
 .menu-section {
     margin-bottom: 20px;
@@ -465,6 +471,13 @@ h1{
 
 }
 
+/* .dish img {
+    max-width: 120px;
+    border-radius: 10px;
+    display: block;
+    height: 140px;
+    margin: 10px auto;
+} */
 .dish img {
     width: 120px;
     height: 140px;
@@ -472,9 +485,32 @@ h1{
     display: block;
     margin: 10px auto;
     object-fit: cover; /* Ensures proper image cropping */
+    border-radius: 10px; /* Adds rounded corners */
     border: 2px solid #ccc; /* Adds a subtle border */
 }
+.rating {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
 
+.star {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background: url("/fonts/empty-star.svg") no-repeat center;
+    background-size: contain;
+}
+
+.star.full {
+    background: url("fonts/full-star.svg") no-repeat center;
+    background-size: contain;
+}
+
+.star.half {
+    background: url("fonts/half-star.svg") no-repeat center;
+    background-size: contain;
+}
 
 .tag {
     /* background: #3498db; */
@@ -638,10 +674,9 @@ h1{
 
     .dish img {
         aspect-ratio: 3/4;
-        width: 120px; 
+        width: 120px;
         height: 140px;
-
-    }
+    }    
 
     .category-nav {
         position: sticky;
