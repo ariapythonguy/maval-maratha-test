@@ -125,19 +125,29 @@ function lazyLoadImages() {
 // Call lazyLoadImages after images are added dynamically
 lazyLoadImages();
 
-
 function generateStars(rating) {
     let fullStars = Math.floor(rating);
     let halfStar = rating % 1 !== 0;
+    let totalStars = 5; // Standard 5-star rating system
     let starHTML = "";
+
     for (let i = 0; i < fullStars; i++) {
-        starHTML += `<i class="fa fa-star" style="color: gold;"></i> `;
+        starHTML += `<span class="star full"></span>`;
     }
+
     if (halfStar) {
-        starHTML += `<i class="fa fa-star-half" style="color: gold;"></i> `;
+        starHTML += `<span class="star half"></span>`;
     }
+
+    let remainingStars = totalStars - fullStars - (halfStar ? 1 : 0);
+    for (let i = 0; i < remainingStars; i++) {
+        starHTML += `<span class="star"></span>`;
+    }
+
     return starHTML;
 }
+
+
 
 // // Function to generate star ratings
 // function generateStars(rating) {

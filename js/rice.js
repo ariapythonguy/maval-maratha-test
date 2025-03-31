@@ -123,39 +123,38 @@ function lazyLoadImages() {
 // Call lazyLoadImages after images are added dynamically
 lazyLoadImages();
 
-function generateStars(rating) {
-    let fullStars = Math.floor(rating);
-    let halfStar = rating % 1 !== 0;
-    let starHTML = "";
-    for (let i = 0; i < fullStars; i++) {
-        starHTML += `<i class="fa fa-star" style="color: gold;"></i> `;
-    }
-    if (halfStar) {
-        starHTML += `<i class="fa fa-star-half" style="color: gold;"></i> `;
-    }
-    return starHTML;
-}
-
-// Function to generate star ratings
 // function generateStars(rating) {
 //     let fullStars = Math.floor(rating);
 //     let halfStar = rating % 1 !== 0;
 //     let starHTML = "";
-
 //     for (let i = 0; i < fullStars; i++) {
-//         starHTML += `<span class="full-star"></span> `;
+//         starHTML += `<i class="fa fa-star" style="color: gold;"></i> `;
 //     }
 //     if (halfStar) {
-//         starHTML += `<span class="half-star"></span> `;
+//         starHTML += `<i class="fa fa-star-half" style="color: gold;"></i> `;
 //     }
-
-//     console.log("Generated Stars:", starHTML); // 🔴 Debug log
 //     return starHTML;
 // }
 
-// function generateVegIcon(isVeg) {
-//     return `<span class="radio-circle ${isVeg ? 'veg' : 'non-veg'}"></span> 
-//             <span class="${isVeg ? 'vegetarian' : 'non-vegetarian'}">
-//                 ${isVeg ? 'VEGETARIAN' : 'NON-VEGETARIAN'}
-//             </span>`;
-// }
+function generateStars(rating) {
+    let fullStars = Math.floor(rating);
+    let halfStar = rating % 1 !== 0;
+    let totalStars = 5; // Standard 5-star rating system
+    let starHTML = "";
+
+    for (let i = 0; i < fullStars; i++) {
+        starHTML += `<span class="star full"></span>`;
+    }
+
+    if (halfStar) {
+        starHTML += `<span class="star half"></span>`;
+    }
+
+    let remainingStars = totalStars - fullStars - (halfStar ? 1 : 0);
+    for (let i = 0; i < remainingStars; i++) {
+        starHTML += `<span class="star"></span>`;
+    }
+
+    return starHTML;
+}
+

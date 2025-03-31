@@ -124,52 +124,26 @@ function handleReadMore() {
         });
     });
 }
-// function lazyLoadImages() {
-//     const observer = new IntersectionObserver(entries => {
-//         entries.forEach(entry => {
-//             if (entry.isIntersecting) {
-//                 const img = entry.target;
-//                 img.src = img.dataset.src;
-//                 observer.unobserve(img);
-//             }
-//         });
-//     });
 
-//     document.querySelectorAll(".lazy-img").forEach(img => observer.observe(img));
-// }
 function generateStars(rating) {
     let fullStars = Math.floor(rating);
     let halfStar = rating % 1 !== 0;
+    let totalStars = 5; // Standard 5-star rating system
     let starHTML = "";
+
     for (let i = 0; i < fullStars; i++) {
-        starHTML += `<i class="fa fa-star" style="color: gold;"></i> `;
+        starHTML += `<span class="star full"></span>`;
     }
+
     if (halfStar) {
-        starHTML += `<i class="fa fa-star-half" style="color: gold;"></i> `;
+        starHTML += `<span class="star half"></span>`;
     }
+
+    let remainingStars = totalStars - fullStars - (halfStar ? 1 : 0);
+    for (let i = 0; i < remainingStars; i++) {
+        starHTML += `<span class="star"></span>`;
+    }
+
     return starHTML;
 }
 
-// // Function to generate star ratings
-// function generateStars(rating) {
-//     let fullStars = Math.floor(rating);
-//     let halfStar = rating % 1 !== 0;
-//     let starHTML = "";
-
-//     for (let i = 0; i < fullStars; i++) {
-//         starHTML += `<span class="full-star"></span> `;
-//     }
-//     if (halfStar) {
-//         starHTML += `<span class="half-star"></span> `;
-//     }
-
-//     console.log("Generated Stars:", starHTML); // 🔴 Debug log
-//     return starHTML;
-// }
-
-// function generateVegIcon(isVeg) {
-//     return `<span class="radio-circle ${isVeg ? 'veg' : 'non-veg'}"></span> 
-//             <span class="${isVeg ? 'vegetarian' : 'non-vegetarian'}">
-//                 ${isVeg ? 'VEGETARIAN' : 'NON-VEGETARIAN'}
-//             </span>`;
-// }
